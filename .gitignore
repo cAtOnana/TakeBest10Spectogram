@@ -259,3 +259,24 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/TakeBest10Spectogram/LM3_2.spectra.list
+/TakeBest10Spectogram/LM3_2.best20
+/TakeBest10Spectogram/LM3_2.best100
+/TakeBest10Spectogram/LM3_1.spectra.list
+/TakeBest10Spectogram/LM3_1.best20
+/TakeBest10Spectogram/LM3_1.best100
+/TakeBest10Spectogram/Hep3B_2.spectra.list
+/TakeBest10Spectogram/Hep3B_2.spectra
+/TakeBest10Spectogram/Hep3B_2.best20
+/TakeBest10Spectogram/Hep3B_2.best100
+/TakeBest10Spectogram/Hep3B_1.spectra.list
+/TakeBest10Spectogram/Hep3B_1.spectra
+/TakeBest10Spectogram/Hep3B_1.best20
+/TakeBest10Spectogram/Hep3B_1.best100
+/TakeBest10Spectogram/97H_2.spectra.list
+/TakeBest10Spectogram/97H_2.best20
+/TakeBest10Spectogram/97H_2.best100
+/TakeBest10Spectogram/MHCCLM3_2.spectra
+/TakeBest10Spectogram/MHCCLM3_1.spectra
+/TakeBest10Spectogram/MHCC97H_2.spectra
+/TakeBest10Spectogram/MHCC97H_1.spectra
